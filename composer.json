@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Chloe Lau",
+        "email": "20023837@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
